@@ -11,7 +11,9 @@
 				"/Users/liusean/Documents/Unreal Projects/UnrealLearningKit/Content/Pursuer_AIController.uasset",
 				"/Users/liusean/Documents/Unreal Projects/UnrealLearningKit/Content/BP_HUD.uasset",
 				"/Users/liusean/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
-				"/Users/liusean/Documents/Unreal Projects/UnrealLearningKit/Content/RestartButton.uasset"
+				"/Users/liusean/Documents/Unreal Projects/UnrealLearningKit/Content/RestartButton.uasset",
+				"/Users/liusean/Documents/Unreal Projects/UnrealLearningKit/Content/HealthPack.uasset",
+				"/Users/liusean/Documents/Unreal Projects/UnrealLearningKit/Content/ScorePack.uasset"
 			]
 		}
 	]
